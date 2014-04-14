@@ -1,0 +1,11 @@
+"patch"
+{
+	"include"		"materials/CONCRETE/CONCRETEFLOOR033K_C17.vmt"
+	"replace"
+	{
+		"LightmappedGeneric_DX9"
+		{
+			"$envmap"		"maps/ttt_bank_b3/c-1716_1315_-192"
+		}
+	}
+}

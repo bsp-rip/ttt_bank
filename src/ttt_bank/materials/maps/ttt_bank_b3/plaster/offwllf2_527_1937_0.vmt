@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PLASTER/OFFWLLF2.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_bank_b3/c527_1937_0"
+	}
+}

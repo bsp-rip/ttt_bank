@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PROPS/RUBBERFLOOR009A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_bank_b3/c263_820_-192"
+	}
+}

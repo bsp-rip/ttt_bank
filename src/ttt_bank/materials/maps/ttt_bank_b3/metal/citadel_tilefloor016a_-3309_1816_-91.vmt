@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/CITADEL_TILEFLOOR016A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_bank_b3/c-3309_1816_-91"
+	}
+}

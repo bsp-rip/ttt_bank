@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+    "$basetexture" "BMTP1\c1a3wall01"
+    "$bumpmap" "BMTP1\c1a3wall01_normal"
+    "$surfaceprop" "brick"
+    "%keywords" "nican"
+}

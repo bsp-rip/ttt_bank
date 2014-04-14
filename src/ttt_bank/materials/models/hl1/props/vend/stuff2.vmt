@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\HL1\props\vend\stuff2"
+	"$multipass" 1
+	"$phong" "1"
+	"$hlaflambert" "1"
+	"$phongexponent" "10"
+	"$phongboost" ".2"	
+	"$phongfresnelranges"	"[.10.5]"
+	"$phongalbedotint" "0"
+}

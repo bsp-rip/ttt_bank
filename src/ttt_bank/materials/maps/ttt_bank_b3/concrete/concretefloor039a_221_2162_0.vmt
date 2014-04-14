@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CONCRETE/CONCRETEFLOOR039A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_bank_b3/c221_2162_0"
+	}
+}

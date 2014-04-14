@@ -1,0 +1,10 @@
+LightmappedGeneric
+{
+	"$basetexture"	"plaster\offwllf2"
+	"$surfaceprop" "plaster"
+	"$bumpmap" "plaster/offwllf_normal2"
+ 	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$normalmapalphaenvmapmask" "1"
+
+}

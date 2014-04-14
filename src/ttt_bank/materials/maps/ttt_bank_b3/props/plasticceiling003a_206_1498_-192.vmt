@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/PROPS/PLASTICCEILING003A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_bank_b3/c206_1498_-192"
+	}
+}

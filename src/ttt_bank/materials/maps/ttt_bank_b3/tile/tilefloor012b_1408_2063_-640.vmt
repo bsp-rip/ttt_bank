@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/TILE/TILEFLOOR012B.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_bank_b3/c1408_2063_-640"
+	}
+}

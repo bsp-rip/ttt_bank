@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/WOOD/OFFDESKTOP.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_bank_b3/c610_1508_-192"
+	}
+}

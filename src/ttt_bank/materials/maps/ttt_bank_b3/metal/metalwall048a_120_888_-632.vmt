@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/METAL/METALWALL048A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/ttt_bank_b3/c120_888_-632"
+	}
+}
